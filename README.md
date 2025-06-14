@@ -32,38 +32,6 @@ git clone <URL_REPOSITORY>
 
 Jalankan perintah berikut untuk menginstal dependensi PHP dan Node.js:
 
-**composer** **install**
-
-**npm** **install**
-
-Berikut adalah
-
-README.md
-
- yang menjelaskan cara menjalankan proyek Laravel ini:
-
-```md
-# Cara Menjalankan Proyek Laravel
-
-## Persyaratan
-Sebelum menjalankan proyek ini, pastikan Anda telah menginstal:
-- PHP versi 8.2 atau lebih baru
-- Composer
-- Node.js dan npm
-- Database (seperti MySQL, PostgreSQL, atau SQLite)
-
-## Langkah-Langkah
-
-### 1. Clone Repository
-Clone repository ini ke komputer Anda:
-```bash
-git clone <URL_REPOSITORY>
-```
-
-### 2. Instal Dependensi
-
-Jalankan perintah berikut untuk menginstal dependensi PHP dan Node.js:
-
 ```bash
 composer install
 npm install
